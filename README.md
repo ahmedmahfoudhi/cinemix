@@ -18,7 +18,7 @@
 git clone https://github.com/ahmedmahfoudhi/cinemix.git
 
 # Navigate to the project folder
-cd my-nike
+cd cinemix
 
 # Install dependencies
 yarn install
